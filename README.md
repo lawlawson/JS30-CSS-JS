@@ -17,7 +17,7 @@ This project is a part of the JavaScript30 challenge by Wes Bos, where participa
 
 ## Features
 
-- Clock that runs automatically with hour, minute and second hands.
+- Interact with and manipulate item on the page by using sliders and colour picker.
 
 ## Getting Started
 
